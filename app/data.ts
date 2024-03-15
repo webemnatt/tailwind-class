@@ -9,14 +9,14 @@ export const rocketsList = [
   {
     id: '02',
     name: 'Adventurer',
-    src: '/img/rocketman.png',
+    src: '/img/rocketride.png',
     price: '$$',
     description: 'Best Selling Rocket!',
   },
   {
     id: '03',
     name: 'Infinity',
-    src: '/img/rocketride.png',
+    src: '/img/rocketlaunch.png',
     price: '$$$',
     description: 'Luxury Starship',
   },
